@@ -17,3 +17,7 @@ public class Renderer {
         System.out.println("Shape printed\n" + "Its area is " + area);
     }
 }
+
+
+
+
