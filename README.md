@@ -7,3 +7,8 @@ To compile and run the Java version, run `mvn compile` in the `java` directory, 
 To compile and run the TypeScript version, run `npm compile` in the `typescript` directory, then `npm run start` to execute.
 
 
+questions:
+cannot run npm compile/npm run start
+typescript encapsulation: class or function?
+
+npm run compile
